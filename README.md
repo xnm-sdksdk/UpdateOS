@@ -8,14 +8,14 @@ This Bash script automates the process of updating an Ubuntu operating system. I
 - Cleans up the local repository.
 
 ## Usage
-1. Clone the repository or download the `update_ubuntu.sh` script.
+1. Clone the repository or download the `updateos.sh` script.
 2. Make the script executable:
     ```bash
-    chmod +x update_ubuntu.sh
+    chmod +x updateos.sh
     ```
 3. Run the script:
     ```bash
-    ./update_ubuntu.sh
+    ./updateos.sh
     ```
 
 ## Important Note
